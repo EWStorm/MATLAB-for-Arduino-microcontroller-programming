@@ -1,6 +1,6 @@
 %4 states, switch- case statements, ReadVoltage function, buzzer, RGB led.   
 %BIS; AU Herning, 2022. Design 3. 
-%Olga, Ekaterina 
+
 clear all;
 global a
 a = arduino();
