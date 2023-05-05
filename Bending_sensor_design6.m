@@ -1,6 +1,5 @@
 %flex sensor as a push btn, Design 6.   
-%BIS; AU Herning, 2022. 
-% Ekaterina, Verner, Olga, Jesper.  
+%BIS; AU Herning, 2022.  
 %Components: RGB led, Buzzer,resistors...
 %jump wires, servo motor, flex sensor.  
 
