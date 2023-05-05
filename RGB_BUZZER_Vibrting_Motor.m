@@ -1,6 +1,4 @@
 %vibrating motor, Design 4.   
-%BIS; AU Herning, 2022. 
-%Olga, Ekaterina 
 %Components: RGB led, Buzzer, push btn,resistors...
 %jump wires, vibrating motor. 
 
